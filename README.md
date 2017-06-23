@@ -12,6 +12,8 @@ after that, use command 'make' to make excutable file
 # How to run?
 Double click excutable file and input ip address that you want to compete.
 
+
+
 이 프로젝트 이름은 '흑과 백' 입니다.
 흑과 백은 간단하고 쉬운 카드게임입니다.
 하지만 이기기 위해서는 여러가지 전략이 필요하죠.
