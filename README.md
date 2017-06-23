@@ -1,15 +1,15 @@
-#Black & White
+# Black & White
 This project is Black & white which is very simple and easy card game.
 
-#Language :
+# Language :
 C++ with qt
 
-#How to compile?
+# How to compile?
 You need qmake or qt creator.
 If you use qmake use command 'qmake' to make makefile.
 after that, use command 'make' to make excutable file
 
-#How to run?
+# How to run?
 Double click excutable file and input ip address that you want to compete.
 
 이 프로젝트 이름은 '흑과 백' 입니다.
